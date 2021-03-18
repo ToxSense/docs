@@ -1,7 +1,5 @@
 # Learning Atmospheres - ToxSense 
 
-[![ToxSense GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxSense)](https://github.com/anuraghazra/github-readme-stats)
-
 ## **Programming resources:**
 
 **sensor.community**. (DB) https://archive.sensor.community/. Open Data Commons: Database Contents License (DbCL) v1.0.
